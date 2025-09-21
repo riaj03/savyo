@@ -93,7 +93,7 @@ const CreateDeal = () => {
             </h2>
             <p className="mt-2 text-sm text-gray-600">
               Share your amazing deals with the community and help others save
-              money!
+              money! -DDDD
             </p>
           </div>
 
