@@ -127,7 +127,7 @@ const CreateDeal = () => {
                   htmlFor="title"
                   className="block text-sm font-medium text-gray-700"
                 >
-                  Deal Title
+                  Deal Title + Description
                 </label>
                 <input
                   type="text"
