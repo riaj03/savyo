@@ -12,6 +12,7 @@ import categoryRoutes from "./routes/categories";
 dotenv.config();
 
 // Create Express app
+// Initialize Express app and assign it to a constant variable 'app'
 const app = express();
 
 // Middleware
