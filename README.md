@@ -10,7 +10,7 @@ A modern web platform for discovering and sharing the best deals and discounts f
 - 👨‍💼 Admin panel for content moderation
 - 🔄 Automated deal scraping from partner websites
 - 📱 Responsive design for all devices
-- Readme updated for checking gitflow v2 and others
+- Readme updated for checking gitflow
 
 ## Tech Stack
 
